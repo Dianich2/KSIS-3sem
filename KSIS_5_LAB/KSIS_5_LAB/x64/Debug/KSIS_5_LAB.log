@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по КСИС\KSIS_5_LAB\KSIS_5_LAB\main.cpp(17,9): warning C4005: IP_DEST_NET_UNREACHABLE: изменение макроопределения
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по КСИС\KSIS_5_LAB\KSIS_5_LAB\main.cpp(18,9): warning C4005: IP_DEST_HOST_UNREACHABLE: изменение макроопределения
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по КСИС\KSIS_5_LAB\KSIS_5_LAB\main.cpp(19,9): warning C4005: IP_DEST_PROT_UNREACHABLE: изменение макроопределения
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по КСИС\KSIS_5_LAB\KSIS_5_LAB\main.cpp(20,9): warning C4005: IP_DEST_PORT_UNREACHABLE: изменение макроопределения
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по КСИС\KSIS_5_LAB\KSIS_5_LAB\main.cpp(21,9): warning C4005: IP_REQ_TIMED_OUT: изменение макроопределения
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по КСИС\KSIS_5_LAB\KSIS_5_LAB\main.cpp(22,9): warning C4005: IP_BAD_REQ: изменение макроопределения
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по КСИС\KSIS_5_LAB\KSIS_5_LAB\main.cpp(23,9): warning C4005: IP_BAD_ROUTE: изменение макроопределения
+C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по КСИС\KSIS_5_LAB\KSIS_5_LAB\main.cpp(24,9): warning C4005: IP_TTL_EXPIRED_TRANSIT: изменение макроопределения
+  KSIS_5_LAB.vcxproj -> C:\ФИТ\Лабораторные работы\3 сем\Лабораторные работы по КСИС\KSIS_5_LAB\x64\Debug\KSIS_5_LAB.exe
